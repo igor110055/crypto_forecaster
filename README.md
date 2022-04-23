@@ -12,7 +12,7 @@
 [технический анализ](https://ru.tradingview.com/symbols/BTCUSDT/technicals/)
 
 
-[статья где посчитали корреляцию и набросали дальнейшие идеи] (https://habr.com/ru/company/wirex/blog/406363/)
+[статьягдепосчиталикорреляциюинабросалидальнейшиеидеи] (https://habr.com/ru/company/wirex/blog/406363/)
 
 Метрики оценки решения
 
